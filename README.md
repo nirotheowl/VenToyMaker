@@ -63,4 +63,3 @@ You can place `.iso` files into the `ISO images/` folder manually, or let the op
 VentoyMaker is released under the MIT License. Ventoy itself is developed independently and is available at:
 
 https://github.com/ventoy/Ventoy
-
