@@ -1,15 +1,4 @@
-
-
- _ _ ___ _  _ ___ ___ __
-| | | __| \| |_ _/ \ V /
-| V | _|| \\ || ( o \ / 
- \_/|___|_|\_||_|\_/|_| 
- _   _  _  _  ____ ___  
-| \_/ |/ \| |/| __| o \ 
-| \_/ | o |  (| _||   / 
-|_| |_|_n_|_|\|___|_|\\ 
-                        
-
+# VENTOY MAKER
 
 
 VentoyMaker is a simple Python-based utility to help create a bootable Ventoy USB drive and copy existing `.iso` files onto it. It is designed for users who want to quickly set up a multiboot USB stick with minimal effort.
