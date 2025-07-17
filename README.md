@@ -26,7 +26,7 @@ VentoyMaker/
 1. Extract the VentoyMaker files to a working directory.
 2. Run the script using:
 
-   sudo python3 scripts/main.py
+   $ sudo chmod +x start.sh && sudo ./start.sh
 
    The script requires `sudo` to mount USB devices and run the Ventoy installer.
 
